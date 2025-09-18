@@ -8,7 +8,7 @@ This Power BI report analyzes sales trends from 2020-2024.
 - `screenshots/`: Report previews
 
 ## Preview
-![Dashboard Screenshot]
+![Dashboard Screenshot] jsw stock ksr.pdf
 
 
 
